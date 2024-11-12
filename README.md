@@ -1,4 +1,4 @@
-# possible datasets
+# sugestões de datasets
 - https://www.kaggle.com/datasets/burayamail/brazilian-ecommerce-analyses-v2?select=olist_order_items_dataset.csv
 - https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 - https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
